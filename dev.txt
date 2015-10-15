@@ -30,7 +30,8 @@ libraries:	jQuery
 			? GSAP
 			? FontAwesome
 			? Ripple effect button: http://tympanus.net/codrops/2015/09/14/creating-material-design-ripple-effects-svg/
-									http://jquery-plugins.net/jquery-ripples-webgl-based-ripple-effect-for-backgrounds
+			? Ripple effect for slideshow: http://jquery-plugins.net/jquery-ripples-webgl-based-ripple-effect-for-backgrounds
+			? Slideshow: http://www.bypeople.com/jquery-slideshow/
 			? Isotope
 			? Flickerplate (responsive fullscreen slideshow)
 			? Pagepilling.js
