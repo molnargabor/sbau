@@ -1,0 +1,34 @@
+Svábbau:
+
+Project folder: k:\Svabbau\honlap\
+Prog folder: http://192.168.1.116/dev/GitHub/(gabor || tamas)/Svabbau/
+
+
+Fix: menü, footer
+Változik: tartalom --> AJAX
+
+Menü:	scrollnál nem tűnik el
+
+Home:	slideshow
+
+Termékek:	logók grid-ben
+			filter kell?
+
+Újdonságok:	Lista nézet, rövidített szövegekkel, tovább/bővebben gombbal
+
+Kapcsolat:	google maps
+
+
+webfonts:	Abel
+			Questrial
+			Playball (írott)
+
+libraries:	jQuery
+			Modernizr
+			Google Custom Search: https://cse.google.com/cse/create/new
+			? GSAP
+			? FontAwesome
+			? Ripple effect button: http://tympanus.net/codrops/2015/09/14/creating-material-design-ripple-effects-svg/
+			? Isotope
+			? Flickerplate (responsive fullscreen slideshow)
+			? Pagepilling.js

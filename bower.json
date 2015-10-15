@@ -1,0 +1,22 @@
+{
+  "name": "Svabbau honlap",
+  "version": "0.0.0",
+  "authors": [
+    "Molnár Gábor <mg@molnargabor.info>"
+  ],
+  "description": "Svabbau Kft. honlapja",
+  "main": "index.html",
+  "license": "unlicenced",
+  "homepage": "svabbau.hu",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
