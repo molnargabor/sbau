@@ -5,7 +5,7 @@ Project folder: k:\Svabbau\honlap\
 Prog folder: http://192.168.1.116/dev/GitHub/gabor || tamas/sbau
 
 
-Fix: menü, footer
+Fix: menu, footer
 Változik: tartalom --> AJAX
 
 Menü:	scrollnál nem tűnik el
