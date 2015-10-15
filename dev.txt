@@ -1,7 +1,7 @@
 Svábbau:
 
 Project folder: k:\Svabbau\honlap\
-Prog folder: http://192.168.1.116/dev/GitHub/(gabor || tamas)/Svabbau
+Prog folder: http://192.168.1.116/dev/GitHub/(gabor || tamas)/sbau
 
 Fix: menü, footer
 Változik: tartalom --> AJAX
