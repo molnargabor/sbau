@@ -1,0 +1,17 @@
+body{
+	background-color:#ff5555;
+}
+.navbar{
+	border-radius: 0;
+	-webkit-transition: all 0.5s; /* Safari */
+    transition: all 0.5s;
+}
+.sb-navbar{
+	background: none;
+}
+.sb-navbar.sb-scrolled{
+	background-color: #ffffff;
+	-webkit-box-shadow: 0px 3px 10px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:    0px 3px 10px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:         0px 3px 10px 0px rgba(50, 50, 50, 0.75);
+}
