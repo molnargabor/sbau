@@ -7,9 +7,18 @@
 		<title>Svábbau</title>
 
 		<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+		
+		<!-- Webfonts -->
+		<link href='https://fonts.googleapis.com/css?family=Rajdhani:600&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+		<!-- Fontawesome -->
+		<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css"> -->
+		<link href="bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+		
 		<!-- Bootstrap CSS -->
 		<!-- <link href="//netdna.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet"> -->
 		<link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+		
 		<link href="css/style.min.css" rel="stylesheet">
 		<link href="css/layout.min.css" rel="stylesheet">
 
@@ -22,12 +31,12 @@
 	</head>
 	<body>
 		<!-- *** Navbar *** -->
-		<nav class="navbar sb-navbar opaque navbar-fixed-top" role="navigation">
+		<nav class="navbar sb-navbar navbar-fixed-top" role="navigation">
 			<!-- Brand and toggle get grouped for better mobile display -->
 			<div class="container">
 			<div class="navbar-header">
 				<button type="button" class="navbar-toggle navbar-margin-top-corr" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-					<span class="sr-only">Toggle navigation</span>
+					<span class="sr-only">Navigáció</span>
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
 					<span class="icon-bar"></span>
@@ -38,14 +47,19 @@
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse navbar-ex1-collapse navbar-padding-top-corr">
 				<ul class="nav navbar-nav">
-					<li class="active"><a href="#">Link</a></li>
-					<li><a href="#">Link</a></li>
+					<li class="active"><a href="#">Rólunk</a></li>
+					<li><a href="#">Szolgáltatás</a></li>
+					<li><a href="#">Termékek</a></li>
+					<li><a href="#">Referenciák</a></li>
+					<li><a href="#">Újdonságok</a></li>
+					<li><a href="#">Támogatásaink</a></li>
+					<li><a href="#">Kapcsolat</a></li>
 				</ul>
 				<form class="navbar-form navbar-right" role="search">
 					<div class="form-group">
-						<input type="text" class="form-control" placeholder="Keresés">
+						<i class="fa fa-search sb-input-icon-start"></i><input id="sb_site_search" type="text" class="form-control sb-input-text" placeholder="Keresés" aria-label="keresés">
 					</div>
-					<button type="submit" class="btn btn-default">Keresés</button>
+					<!-- <button type="submit" class="btn btn-default">Keresés</button> -->
 				</form>
 			</div><!-- /.navbar-collapse -->
 			</div>
