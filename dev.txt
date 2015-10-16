@@ -25,17 +25,20 @@ webfonts:	Abel
 			Questrial
 			Rajdhani (menü)
 			Ek Mukta (menü)
-			Playball (írott)
+			Great Vibes (írott)
 
 libraries:	DONE - jQuery
 			DONE - Bootstrap
 			DONE - FontAwesome
+			wow.js + animate.css - http://mynameismatthieu.com/WOW/docs.html
 			Modernizr
 			Google Custom Search: https://cse.google.com/cse/create/new
 			? GSAP
 			? Ripple effect button: http://tympanus.net/codrops/2015/09/14/creating-material-design-ripple-effects-svg/
 			? Ripple effect for slideshow: http://jquery-plugins.net/jquery-ripples-webgl-based-ripple-effect-for-backgrounds
-			? Slideshow: http://www.bypeople.com/jquery-slideshow/
+			Slideshow:
+				? Bootstrap Full Slider - http://startbootstrap.com/template-overviews/full-slider/
+				? Slideshow: http://www.bypeople.com/jquery-slideshow/
+				? Flickerplate (responsive fullscreen slideshow) /Ezzel az a baj, hogy egy framework-öt is fel kell rakni hozzá/
 			? Isotope
-			? Flickerplate (responsive fullscreen slideshow)
 			? Pagepilling.js
